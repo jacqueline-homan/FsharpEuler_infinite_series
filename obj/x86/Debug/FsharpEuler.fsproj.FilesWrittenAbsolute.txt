@@ -1,0 +1,5 @@
+/Users/admin/Projects/FsharpMathInfiniteSeries/FsharpMathInfiniteSeries/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/FsharpMathInfiniteSeries/FsharpMathInfiniteSeries/bin/Debug/FsharpMathInfiniteSeries.exe.mdb
+/Users/admin/Projects/FsharpMathInfiniteSeries/FsharpMathInfiniteSeries/bin/Debug/FsharpMathInfiniteSeries.exe
+/Users/admin/Projects/FsharpMathInfiniteSeries/FsharpMathInfiniteSeries/obj/x86/Debug/FsharpMathInfiniteSeries.exe
+/Users/admin/Projects/FsharpMathInfiniteSeries/FsharpMathInfiniteSeries/obj/x86/Debug/FsharpMathInfiniteSeries.exe.mdb
